@@ -2,7 +2,6 @@
 #include<vector>
 #include<algorithm>
 #include<iostream>
-//insert some commit
 void print(int i)
 {
   std::cout << " " << i;
